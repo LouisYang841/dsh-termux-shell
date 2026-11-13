@@ -1,0 +1,14 @@
+node_modules/
+token
+*-token
+*.key
+*.pem
+.env
+.env.*
+!.env.example
+*.log
+*.lock
+*.tar.gz
+*.zip
+setup-command.txt
+pairing*
